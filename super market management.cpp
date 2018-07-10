@@ -586,8 +586,13 @@ int mini_main()
 		      Beep(500,500);
 		       gotoxy(90,15);
 		  cout<<"MADE BY : ";
+			  gotoxy(99,20);
+			  cout<<"Jay Khatri";
                         gotoxy(99,22);
-                        cout<<"Jay Khatri (17CE044)";
+			  cout<<"Isha Khimsurya\n\n\n";
+                        gotoxy(99,24);
+			  cout<<"Naimish Ghevariya\n\n\n";
+                         
                     gotoxy(90,30);
                     cout<<"MENTORED BY: ";
                         gotoxy(99,35);
