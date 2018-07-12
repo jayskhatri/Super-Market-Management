@@ -9,7 +9,7 @@ Code is optimized to be compile with gcc only.
 
 ## Authors
 - Jay Khatri --[jayskhatri](https://github.com/jayskhatri)
-- Isha Khimsurya --
+- Isha Khimsurya --[ishakhimsurya](https://github.com/ishakhimsurya)
 - Naimish Ghevariya --
 
 ## License
