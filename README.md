@@ -10,7 +10,7 @@ Code is optimized to be compile with gcc only.
 ## Authors
 - Jay Khatri --[jayskhatri](https://github.com/jayskhatri)
 - Isha Khimsurya --[ishakhimsurya](https://github.com/ishakhimsurya)
-- Naimish Ghevariya --
+- Naimish Ghevariya -- [NaimishGhevaruya](https://github.com/NaimishGhevariya)
 
 ## License
 This project is under MIT Licence- see the [LICENCE.md](https://github.com/jayskhatri/Super-Market-Management/blob/master/LICENSE) for more details.
