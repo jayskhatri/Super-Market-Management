@@ -3,7 +3,7 @@
 #include<conio.h>
 #include<string.h>
 #include<process.h>
-using namespace std;
+using namespace std;  //bad practice. do not import the entire std namespace
 COORD coord={0,0};
 void gotoxy(int x,int y)
 {
@@ -45,7 +45,7 @@ lbl:
                         if(s3[j]==32)
                         {
                             s3[j]='\0';
-                            if(!strcmp(s3,s1))
+                            if(!strcmp(s3,s1)) //use the C++ string library functions
                             {
 
                                 break;
