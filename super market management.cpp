@@ -25,7 +25,7 @@ int mini_main();
 class item
 {
  int ino;
- char name[100];
+ char name[100];  //use std::string instead
  float price,qty,tax,dis;
  public:
 	void create_item()
