@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<iostream>
 #include<conio.h>
-#include<string.h>
+#include<string.h> //replace with <string>
 #include<process.h>
 using namespace std;
 COORD coord={0,0};
@@ -32,7 +32,7 @@ int login()
 lbl:
                 do
                 {
-                    printf("\n\tEnter user name:");
+                    printf("\n\tEnter user name:"); //why use this when you can use the iostream library functions
                     scanf("%s",s1);
                     fseek(f1,0L,0);
                     fscanf(f1,"%c",&s3[0]);
@@ -45,7 +45,7 @@ lbl:
                         if(s3[j]==32)
                         {
                             s3[j]='\0';
-                            if(!strcmp(s3,s1))
+                            if(!strcmp(s3,s1)) 
                             {
 
                                 break;
