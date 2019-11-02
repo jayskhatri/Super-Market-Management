@@ -84,7 +84,7 @@ lbl:
                         if(ch!=8)
                         {
                         pass.push_back(ch);
-                        cout<<"****";
+                        cout<<"***";
                         //cout<<ch;
                         ch=_getch();
                         }
