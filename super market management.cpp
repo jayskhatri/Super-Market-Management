@@ -1,6 +1,6 @@
-//***************************************************************
-//                   HEADER FILE USED IN PROJECT
-//***************************************************************
+/***************************************************************/
+/*                 HEADER FILE USED IN PROJECT                 */   
+/***************************************************************/
 #include<windows.h>
 #include<mmsystem.h>
 #include<iomanip>
@@ -12,15 +12,16 @@
 #include<process.h>
 #include<fstream>
 #include<iostream>
+
 using namespace std;
 void admin_menu();
 void r_admin_menu();
 void main_menu();
 void gotoxy(int ,int);
 int mini_main();
-//***************************************************************
-//                   CLASS USED IN PROJECT
-//***************************************************************
+/***************************************************************
+                   CLASS USED IN PROJECT
+/***************************************************************/
 
 class item
 {
