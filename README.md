@@ -11,7 +11,12 @@
   </a>
 </p>
 
-> It&#39;s my 2nd sem project on super market management which is in c++. Simple billing and market management project in c++. It has admin panel where admin can manage stock of items and customer can buy the items. Bill is auto generated. Just clone the Repository and run the main cpp file with gcc
+ * This is my project on super market management .
+ * I have done this project in my second semester.
+ * I used  C++ language .
+ * It do billing and auto generate Bill for the Customer .
+ * It has admin panel where admin can manage stock of items and customer can buy them.
+ * Do explore it by just clone the Repository and run the main cpp file with gcc.
 
 ### 🏠 [Homepage](https://github.com/jayskhatri/Super-Market-Management)
 
